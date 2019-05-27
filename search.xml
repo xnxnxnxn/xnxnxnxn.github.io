@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[如何开启一篇新的博客]]></title>
+    <url>%2F2019%2F05%2F27%2Fhexo-study%2F</url>
+    <content type="text"><![CDATA[新建博客hexo new post &lt;文章名&gt; 设置标签和分类1234tags:- hexocategories:- hexo 编写文章上传至Githubhexo d -g]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[angular]]></title>
     <url>%2F2019%2F05%2F16%2Fangular%2F</url>
     <content type="text"><![CDATA[开始学习Angular]]></content>
